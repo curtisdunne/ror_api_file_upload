@@ -46,3 +46,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'carrierwave', '~> 2.1'
 gem 'carrierwave-base64', '~> 2.8', '>= 2.8.1'
+gem 'dotenv-rails', '~> 2.7', '>= 2.7.6'
+gem 'carrierwave-aws', '~> 1.5'
